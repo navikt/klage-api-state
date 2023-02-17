@@ -1,0 +1,19 @@
+{
+  "name": "@navikt/klage-api-state",
+  "version": "1.0.0",
+  "description": "API state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navikt/klage-api-state.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navikt/klage-api-state/issues"
+  },
+  "homepage": "https://github.com/navikt/klage-api-state#readme"
+}
